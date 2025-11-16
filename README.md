@@ -57,16 +57,16 @@ Empty fields are allowed — empty/0 means “this criterion is optional”.
 
 Each candidate is evaluated against the input using predefined weights:
 
-Attribute	Weight
-Skills	0.30
-Domain match	0.15
-Job Title match	0.15
-Experience match	0.10
-Salary expectation	0.10
-Location match	0.05
-Notice Period	0.05
-Leadership Exp	0.05
-International Exp	0.03
+Attribute	Weight,
+Skills	0.30,
+Domain match	0.15,
+Job Title match	0.15,
+Experience match	0.10,
+Salary expectation	0.10,
+Location match	0.05,
+Notice Period	0.05,
+Leadership Exp	0.05,
+International Exp	0.03,
 Degree match	0.02
 
 These weights reflect the importance of each category in real-world hiring priorities.
